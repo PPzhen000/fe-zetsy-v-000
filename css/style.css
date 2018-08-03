@@ -24,7 +24,7 @@ h1 {
 	padding: 10px;
 	font-size: 5em;
 	font-family: font-family: 'Domine', serif;
-
+	border-bottom: 1px solid #ccc;
 }
 
 img {
