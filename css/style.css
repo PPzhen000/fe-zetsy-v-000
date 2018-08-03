@@ -27,6 +27,11 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
+h2 {
+	color: rgb(113, 126, 116);
+	font-size: 2em;
+}
+
 img {
 	margin: 0 auto;
 	border: 5px;
