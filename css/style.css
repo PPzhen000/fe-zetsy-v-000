@@ -44,6 +44,10 @@ img {
 	color: rgb(157, 173, 168);
 }
 
+.links img {
+	border-style: solid;
+	color: rgb(204,204,204);
+}
 footer {
 	padding: 10px;
 	font-size: 0.7em;
