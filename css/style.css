@@ -29,6 +29,7 @@ h1 {
 
 img {
 	border: 20px;
+	border-style: solid;
 	color: grey;
 }
 
