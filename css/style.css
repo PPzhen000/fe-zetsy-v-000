@@ -50,7 +50,7 @@ img {
 }
 
 .links a {
-	transition: border-color 0.5s rgb(157, 173, 168);
+	transition: color 0.5s rgb(157, 173, 168);
 }
 
 footer {
