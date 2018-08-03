@@ -47,9 +47,6 @@ img {
 .links img {
 	border-style: solid;
 	color: rgb(204,204,204);
-}
-
-.links a {
 	transition: color 0.5s rgb(157, 173, 168);
 }
 
