@@ -48,6 +48,11 @@ img {
 	border-style: solid;
 	color: rgb(204,204,204);
 }
+
+.links a {
+	transition: border-color 0.5s rgb(157, 173, 168);
+}
+
 footer {
 	padding: 10px;
 	font-size: 0.7em;
