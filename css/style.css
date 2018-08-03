@@ -28,6 +28,7 @@ h1 {
 }
 
 img {
+	margin: 0 auto;
 	border: 5px;
 	border-style: solid;
 	color: grey;
