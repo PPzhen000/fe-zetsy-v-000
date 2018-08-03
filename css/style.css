@@ -1,5 +1,5 @@
 /*////////////// Fonts //////////////*/
-@import url('https://fonts.googleapis.com/css?family=Domine');
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -24,7 +24,7 @@ h1 {
 	padding: 10px;
 	font-size: 5em;
 	font-weight: bold;
-	font-family: 'Domine', serif;
+	font-family: 'Crete Round', serif;
 }
 
 img {
